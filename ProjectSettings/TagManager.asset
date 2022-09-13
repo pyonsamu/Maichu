@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  - PlayerKickBullet
+  - Spike
+  - Sickle
+  - Boss
+  - PlayerSickle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3969640065
+    locked: 0
+  - name: BackGroundTilemap
+    uniqueID: 1404774211
+    locked: 0
+  - name: GroundTilemap
+    uniqueID: 2286930091
+    locked: 0
+  - name: SpikeTilemap
+    uniqueID: 3960372205
+    locked: 0
+  - name: BossBackArm
+    uniqueID: 4104842913
+    locked: 0
+  - name: Boss
+    uniqueID: 1944252917
+    locked: 0
+  - name: BossOtherArm
+    uniqueID: 1898424205
+    locked: 0
+  - name: Player
+    uniqueID: 3169238035
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
